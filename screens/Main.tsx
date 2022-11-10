@@ -22,8 +22,8 @@ export default function Main({
         onPress={() => navigation.navigate("Add Person")}
       />
       <Button
-        title="Add Person"
-        onPress={() => navigation.navigate("Add Person")}
+        title="Edit Person"
+        onPress={() => navigation.navigate("Edit Person")}
       />
       <Button
         title="Calculate"
